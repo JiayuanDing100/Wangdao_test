@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "今天的文件函数(20160113)", "homework(20160113)\homework(20160113).vcxproj", "{5FB6B4D4-71EB-4ECD-8F40-AD324A1B5F2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表拆分", "链表拆分\链表拆分.vcxproj", "{254E0C8B-B13E-4F6F-BF8F-0AA5FC897955}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 12作业--第6题：两个表合成一个有序链表", "01 12作业--第6题：两个表合成一个有序链表\01 12作业--第6题：两个表合成一个有序链表.vcxproj", "{246D1DB4-65D2-45CD-888F-F2FFAD2343B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业 --第7题 将链表逆过来", "1月12号作业 --第7题 将链表逆过来\1月12号作业 --第7题 将链表逆过来.vcxproj", "{EA2BF9CC-9279-471A-A827-59CBDF653FEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业--第8题 找出倒数第四个节点", "1月12号作业--第8题 找出倒数第四个节点\1月12号作业--第8题 找出倒数第四个节点.vcxproj", "{FFB84704-BD19-4426-A1BA-E99F888CB651}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业--第9题 找出中间节点", "1月12号作业--第9题 找出中间节点\1月12号作业--第9题 找出中间节点.vcxproj", "{9A80D5EE-2D63-43A1-86AB-365BFABB12BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业--将链表倒置", "1月12号作业--将链表倒置\1月12号作业--将链表倒置.vcxproj", "{D650BF79-EA70-43D5-BD80-AB80ACD7B5DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业 --第10题 判断链表是否有环", "1月12号作业 --第10题 判断链表是否有环\1月12号作业 --第10题 判断链表是否有环.vcxproj", "{0CFEBD6B-2C18-455E-9E6E-32D93DCA8F8E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1月12号作业--第11题 判断两个链表是否相交及计算交点", "1月12号作业--第11题 判断两个链表是否相交及计算交点\1月12号作业--第11题 判断两个链表是否相交及计算交点.vcxproj", "{BB9C5AA8-ABDC-49B2-937F-524E8841FC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB6B4D4-71EB-4ECD-8F40-AD324A1B5F2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FB6B4D4-71EB-4ECD-8F40-AD324A1B5F2F}.Debug|Win32.Build.0 = Debug|Win32
+		{5FB6B4D4-71EB-4ECD-8F40-AD324A1B5F2F}.Release|Win32.ActiveCfg = Release|Win32
+		{5FB6B4D4-71EB-4ECD-8F40-AD324A1B5F2F}.Release|Win32.Build.0 = Release|Win32
+		{254E0C8B-B13E-4F6F-BF8F-0AA5FC897955}.Debug|Win32.ActiveCfg = Debug|Win32
+		{254E0C8B-B13E-4F6F-BF8F-0AA5FC897955}.Debug|Win32.Build.0 = Debug|Win32
+		{254E0C8B-B13E-4F6F-BF8F-0AA5FC897955}.Release|Win32.ActiveCfg = Release|Win32
+		{254E0C8B-B13E-4F6F-BF8F-0AA5FC897955}.Release|Win32.Build.0 = Release|Win32
+		{246D1DB4-65D2-45CD-888F-F2FFAD2343B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{246D1DB4-65D2-45CD-888F-F2FFAD2343B1}.Debug|Win32.Build.0 = Debug|Win32
+		{246D1DB4-65D2-45CD-888F-F2FFAD2343B1}.Release|Win32.ActiveCfg = Release|Win32
+		{246D1DB4-65D2-45CD-888F-F2FFAD2343B1}.Release|Win32.Build.0 = Release|Win32
+		{EA2BF9CC-9279-471A-A827-59CBDF653FEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA2BF9CC-9279-471A-A827-59CBDF653FEB}.Debug|Win32.Build.0 = Debug|Win32
+		{EA2BF9CC-9279-471A-A827-59CBDF653FEB}.Release|Win32.ActiveCfg = Release|Win32
+		{EA2BF9CC-9279-471A-A827-59CBDF653FEB}.Release|Win32.Build.0 = Release|Win32
+		{FFB84704-BD19-4426-A1BA-E99F888CB651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFB84704-BD19-4426-A1BA-E99F888CB651}.Debug|Win32.Build.0 = Debug|Win32
+		{FFB84704-BD19-4426-A1BA-E99F888CB651}.Release|Win32.ActiveCfg = Release|Win32
+		{FFB84704-BD19-4426-A1BA-E99F888CB651}.Release|Win32.Build.0 = Release|Win32
+		{9A80D5EE-2D63-43A1-86AB-365BFABB12BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A80D5EE-2D63-43A1-86AB-365BFABB12BD}.Debug|Win32.Build.0 = Debug|Win32
+		{9A80D5EE-2D63-43A1-86AB-365BFABB12BD}.Release|Win32.ActiveCfg = Release|Win32
+		{9A80D5EE-2D63-43A1-86AB-365BFABB12BD}.Release|Win32.Build.0 = Release|Win32
+		{D650BF79-EA70-43D5-BD80-AB80ACD7B5DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D650BF79-EA70-43D5-BD80-AB80ACD7B5DB}.Debug|Win32.Build.0 = Debug|Win32
+		{D650BF79-EA70-43D5-BD80-AB80ACD7B5DB}.Release|Win32.ActiveCfg = Release|Win32
+		{D650BF79-EA70-43D5-BD80-AB80ACD7B5DB}.Release|Win32.Build.0 = Release|Win32
+		{0CFEBD6B-2C18-455E-9E6E-32D93DCA8F8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CFEBD6B-2C18-455E-9E6E-32D93DCA8F8E}.Debug|Win32.Build.0 = Debug|Win32
+		{0CFEBD6B-2C18-455E-9E6E-32D93DCA8F8E}.Release|Win32.ActiveCfg = Release|Win32
+		{0CFEBD6B-2C18-455E-9E6E-32D93DCA8F8E}.Release|Win32.Build.0 = Release|Win32
+		{BB9C5AA8-ABDC-49B2-937F-524E8841FC5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB9C5AA8-ABDC-49B2-937F-524E8841FC5F}.Debug|Win32.Build.0 = Debug|Win32
+		{BB9C5AA8-ABDC-49B2-937F-524E8841FC5F}.Release|Win32.ActiveCfg = Release|Win32
+		{BB9C5AA8-ABDC-49B2-937F-524E8841FC5F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
